@@ -1,0 +1,9 @@
+{
+	"name": "sethuADF",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7234abe7-85b9-4cc1-9c85-e0be2775176d",
+		"tenantId": "eff2967e-207c-4404-8873-d231e1be38fc"
+	}
+}
